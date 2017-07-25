@@ -1,0 +1,15 @@
+{
+  "uploadOnSave": true,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "titan.csit.rmit.edu.au",
+  "port": "22",
+  "target": "./unix_admin/scripts",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "s3547463",
+  "password": "Cowafy13$",
+  "transport": "scp"
+}
